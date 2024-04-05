@@ -1,0 +1,41 @@
+.center {
+  text-align: center;
+}
+.header {
+  margin-bottom: 50px;
+}
+.post .comment {
+  margin-bottom: 80px;
+}
+body {
+  margin-left: 20%;
+  margin-right: 20%;
+  margin-top: 50px;
+}
+.user {
+  margin-top: 40px;
+}
+.nav {
+  margin-bottom: 50px;
+  margin-left: 30%;
+  margin-right: 30%;
+}
+
+.nav a {
+  margin-left: 60px;
+  padding-inline: 40px;
+  padding-block: 10px;
+  border-radius: 10px;
+}
+
+.nav a:hover {
+  background-color: #9b4dca;
+  color: #fff;
+}
+.center {
+  text-align: center;
+}
+.header {
+  margin-bottom: 50px;
+  margin-top: 50px;
+}
