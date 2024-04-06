@@ -22,10 +22,11 @@ body {
 }
 
 .nav a {
-  margin-left: 60px;
+  margin-left: 20px;
   padding-inline: 40px;
   padding-block: 10px;
   border-radius: 10px;
+  font-weight: 600;
 }
 
 .nav a:hover {
@@ -38,4 +39,17 @@ body {
 .header {
   margin-bottom: 50px;
   margin-top: 50px;
+}
+.bold{
+  font-weight: 600;
+}
+
+#quote{
+  font-size: 20px;
+  height: 80px;
+  align-items: center;
+}
+
+.refresh-btn{
+  margin-top: 20px;
 }
