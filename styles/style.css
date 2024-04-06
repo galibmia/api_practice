@@ -53,3 +53,9 @@ body {
 .refresh-btn{
   margin-top: 20px;
 }
+
+.img{
+  border-radius: 10px;
+  height: 200px;
+  width: 200px;
+}
